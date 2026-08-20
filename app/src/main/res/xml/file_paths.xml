@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="cache_docs" path="." />
+    <files-path name="app_docs" path="." />
+    <external-path name="external_docs" path="." />
+</paths>

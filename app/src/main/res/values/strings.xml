@@ -1,0 +1,37 @@
+<resources>
+    <string name="camera_button_desc">Open camera</string>
+    <string name="search_documents">Search documents...</string>
+    <string name="no_docs_yet">No Docs Yet</string>
+    <string name="single_mode">SINGLE MODE</string>
+    <string name="next"><![CDATA[Next ->]]></string>
+    <string name="preview_image_desc">Image preview</string>
+    <string name="app_name">Swadeshi scanner</string>
+    <string name="original">Original</string>
+    <string name="magic">Magic</string>
+    <string name="gray">Gray</string>
+    <string name="_0">0</string>
+    <string name="flash_button">flash button</string>
+    <string name="crop_amp_enhance"><![CDATA[Crop & Enhance]]></string>
+    <string name="rotate_image">Rotate Image</string>
+    <string name="delete_page">Delete Page</string>
+    <string name="gray_mode">Gray Mode</string>
+    <string name="next_page_save">Next Page / Save</string>
+    <string name="b_amp_w"><![CDATA[B&W]]></string>
+    <string name="preview_image">Preview Image</string>
+    <string name="next_step">Next Step</string>
+    <string name="choose_filter">Choose Filter</string>
+    <string name="org">Org</string>
+    <string name="magic_color">Magic Color</string>
+    <string name="document">Document</string>
+    <string name="save_jpg">Save JPG</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="delete_doc">delete documnet</string>
+    <string name="empty_icon">Empty Icon</string>
+    <string name="no_documents_yet">No documents yet</string>
+    <string name="start_camera">Start Camera</string>
+    <string name="add_page">Add Page</string>
+    <string name="document_name">Document Name</string>
+    <string name="oct_24_2025">Oct 24, 2025</string>
+    <string name="_5_pages">5 Pages</string>
+    <string name="_1">1</string>
+</resources>

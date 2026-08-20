@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.SwadeshiScanner" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/cs_green</item>
+        <item name="colorPrimaryVariant">@color/cs_green_dark</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.SwadeshiScanner.Camera" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+</resources>

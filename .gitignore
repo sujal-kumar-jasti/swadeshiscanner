@@ -1,0 +1,33 @@
+# Built artifacts
+/build
+/app/build
+
+# IDE files
+/.idea
+/*.iml
+/local.properties
+/.gradle
+/.kotlin
+
+# Captures
+/captures
+
+# External Build
+.externalNativeBuild
+.cxx
+
+# Device artifacts
+/*.apk
+/*.apks
+/*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.xml
+google-services.json
+
+# Logcat
+logcat.txt
